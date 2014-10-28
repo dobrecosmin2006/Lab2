@@ -5,6 +5,7 @@ package surse;
  */
 public class Studenti {
 
+
     private String NumeStudent;
     private int AtmMilitar;     // 0 - taxa 1 - militar
 
